@@ -1,9 +1,9 @@
 # Weather_app
-### Weather_appは世界中の都市の天気を教えてくれるアプリです。エンジニアVtuber凛さんのYouTube動画をもとに作成し、改良を加えました。
+Weather_appは世界中の都市の天気を教えてくれるアプリです。エンジニアVtuber凛さんのYouTube動画をもとに作成し、改良を加えました。
 
 ###
-### 【参考動画】
-### https://www.youtube.com/watch?v=I3xCXjpYi0c
+【参考動画】
+https://www.youtube.com/watch?v=I3xCXjpYi0c
 
 
 ### 【追加した点】
